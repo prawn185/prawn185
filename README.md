@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm prawn185 (Shaun)
 
-<!--
-**prawn185/prawn185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Senior Software Engineer**  currenrly working at Octopus Legacy. With experience in **Laravel** and **Python**, and I'm passionate about creating impactful software solutions. I have a keen interest in the **AI & Machine Learning** and am currently working on a **local RAG and specilised LLM**. When I'm not coding, I enjoy **DJing techno music** as DJ Shauno.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Project:** Building a local Retrival Augmentated Generation & specilised Large Language Model
+- 🎶 **Hobby:** Techno music DJ (DJ shauno)
+- 👨‍💻 **Technical Skills:** Laravel, Python
+
+## 🌱 What I'm Learning
+- Advanced Python for data analysis
+- GoLang
+
+---
+
+Thanks for stopping by, and feel free to explore my repositories!
+
